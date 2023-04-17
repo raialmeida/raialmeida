@@ -8,6 +8,8 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado para apri
 ##
 ![Raí GitHub stats](https://github-readme-stats.vercel.app/api?username=raialmeida&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raialmeida&layout=compact)](https://github.com/raialmeida)
+
 ## Tecnologias que uso
 <div style="display: inline_block">
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
