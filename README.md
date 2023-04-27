@@ -8,7 +8,7 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado para apri
 ##
 ![Raí GitHub stats](https://github-readme-stats.vercel.app/api?username=raialmeida&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raialmeida&layout=compact)](https://github.com/raialmeida)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raialmeida)](https://github.com/raialmeida/github-readme-stats)
 
 ## Tecnologias que uso
 <div style="display: inline_block">
