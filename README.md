@@ -16,7 +16,7 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado para apri
 <div style="display: inline_block">
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center"  src="https://www.cypress.io/images/layouts/navbar-brand.svg"/>
+  <img align="center"  height="28" width="77" alt="image" src="https://github.com/raialmeida/raialmeida/assets/55969097/d275c510-1296-42fa-85b6-b5b571040cd4"/>
   <img align="center"  height="30" width="40" src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67"/>
   <img align="center"  src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img align="center"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
