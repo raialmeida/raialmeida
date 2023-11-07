@@ -10,7 +10,7 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado para apri
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raialmeida)](https://github.com/raialmeida/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=raialmeida)
+![](https://komarev.com/ghpvc/?username=raialmeida&style=for-the-badge)
 
 ## Tecnologias que uso
 <div style="display: inline_block">
