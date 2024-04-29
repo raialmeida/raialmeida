@@ -2,7 +2,7 @@
 
 Sou graduado em Ciência da Computação e atuo há mais de 6 anos como QA em testes manuais e automatizados de sistemas Web e API. Tenho experiência com metodologia ágil, incluindo Scrum, e tenho habilidade na criação e execução de casos de teste, bem como na automação de testes e testes de API rest utilizando ferramentas como Cypress e Postman. Além disso, possuo conhecimentos nas linguagens de programação JavaScript e Java.
 
-No decorrer da minha trajetória profissional, trabalhei com diversas ferramentas, tais como Cypress, Selenium WebDriver, JUnit, Cucumber, Mantis, TesteLink, Jira, Confluence, Docker e Jenkins. Também possuo experiência em testes E2E utilizando Cypress e Selenium WebDriver.
+No decorrer da minha trajetória profissional, trabalhei com diversas ferramentas, tais como Cypress, restAssured, Selenium WebDriver, JUnit, Cucumber, Mantis, TesteLink, Jira, Confluence, Docker e Jenkins. Também possuo experiência em testes Web utilizando Cypress e Selenium WebDriver.
 
 Estou sempre em busca de novos desafios e oportunidades de aprendizado para aprimorar minhas habilidades e contribuir para o sucesso dos projetos nos quais atuo.
 ##
@@ -14,13 +14,14 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado para apri
 
 ## Tecnologias que uso
 <div style="display: inline_block">
-  <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center"   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center"  height="28" width="77" alt="image" src="https://github.com/raialmeida/raialmeida/assets/55969097/d275c510-1296-42fa-85b6-b5b571040cd4"/>
-  <img align="center"  height="30" width="40" src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67"/>
-  <img align="center"  src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-  <img align="center"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-  <img align="center" height="30" width="40"  src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"/>
+  <a href="https://www.cypress.io" target="_blank"><img align="center"  height="28" width="77" alt="image" src="https://github.com/raialmeida/raialmeida/assets/55969097/d275c510-1296-42fa-85b6-b5b571040cd4"></a>
+  <a href="https://rest-assured.io" target="_blank"><img align="center" src="https://rest-assured.io/img/logo-transparent.png" height="30" width="40"></a>
+  <a href="https://www.selenium.dev/documentation/webdriver" target="_blank"><img align="center" src="https://github.com/raialmeida/raialmeida/assets/55969097/0ddc5773-e50b-4c9d-9a2a-8af0049d78e5" height="30" width="40"></a>
+  <a href="https://www.jenkins.io" target="_blank"><img align="center"  src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"></a>
+  <a href="https://www.atlassian.com/br/software/jira" target="_blank"><img align="center"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+  <a href="https://www.docker.com" target="_blank"><img align="center" height="30" width="40"  src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></a>
  </div><br/>
  
   ## Database
