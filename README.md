@@ -1,8 +1,10 @@
 ## Olá, sou Raí Almeida - QA Engineer
 
-Sou graduado em Ciência da Computação e atuo há mais de 8 anos como QA em testes manuais e automatizados de sistemas Web, API e Mobile. Tenho experiência com metodologia ágil, incluindo Scrum e Kanban, e tenho habilidade na criação e execução de casos de teste, bem como na automação de testes e testes de API rest utilizando ferramentas como Cypress, RestAssured e Postman. Além disso, possuo conhecimentos nas linguagens de programação JavaScript, Java e C#.
+Profissional com mais de 8 anos de experiência em Qualidade de Software, atuando em projetos de grande porte e alta complexidade com testes manuais e automatizados. Graduado em Ciência da Computação, tenho sólida vivência em ambientes ágeis (Scrum/Kanban), colaborando com times multidisciplinares na entrega de produtos com alto padrão de qualidade.
 
-No decorrer da minha trajetória profissional, trabalhei com diversas ferramentas, tais como Cypress, RestAssured, Selenium WebDriver, RestSharp, JUnit, Cucumber, Mantis, TesteLink, Jira, Confluence, Docker e Jenkins. Também possuo experiência em testes Web utilizando Cypress e Selenium WebDriver.
+Especialista em automação de testes Web, API e Mobile, utilizando ferramentas como Cypress, Selenium WebDriver, Appium, RestAssured, RestSharp e Robot Framework, além de integração de testes em pipelines de CI/CD (Azure DevOps, Jenkins, Bitbucket Pipelines, GitHub Actions). Experiência prática com linguagens Java, C# e JavaScript, além de bancos de dados como SQL Server, MongoDB, PostgreSQL e Oracle.
+
+Tenho forte atuação na definição de estratégias de testes, planejamento, execução e análise de falhas, contribuindo para a redução de bugs em produção e melhoria contínua do processo de QA. Possuo certificações CTFL e CTFL-AT.
 
 Estou sempre em busca de novos desafios e oportunidades de aprendizado para aprimorar minhas habilidades e contribuir para o sucesso dos projetos nos quais atuo.
 ##
